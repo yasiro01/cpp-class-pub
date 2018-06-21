@@ -7,7 +7,8 @@ Salaried employee example
 Brave Beaver from Bakery earned $1000.00 this week with the annual contract of $52000.00
 Brave Beaver from Section B earned $1192.31 this week with the annual contract of $62000.00
 -------------
-Reading from file
+Creating a Company
+There are 8 employees in Aardvark Technologies
 Salaried Employees
 Alice from Admissions earned $769.23 this week with the annual contract of $40000.00
 Diana from Bakery earned $1057.69 this week with the annual contract of $55000.00
@@ -18,4 +19,5 @@ Bob from Admissions earned $600.00 this week after working 40.00 hours
 Charlie from Bakery earned $820.00 this week after working 40.00 hours
 Fred from Counseling earned $2000.00 this week after working 40.00 hours
 George from Dining earned $562.50 this week after working 50.00 hours
+
 -------------
